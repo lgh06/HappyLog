@@ -65,6 +65,9 @@ article {
     width: 90%;
   }
 }
+article a {
+  text-decoration: none;
+}
 footer {
   width: 100%;
   min-width: 248px;
