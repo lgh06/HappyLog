@@ -29,7 +29,7 @@
   function Lightbox(options) {
     this.album = [];
     this.currentImageIndex = void 0;
-    this.init();
+    //this.init(); By LGH
 
     // options
     this.options = $.extend({}, this.constructor.defaults);

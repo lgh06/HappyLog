@@ -41,6 +41,8 @@
 			$('article').css("min-height",minht+"px");
 			$('aside').height($('article').height());
 		}
+		
+		lightbox.init();
 
 	});
 })();
